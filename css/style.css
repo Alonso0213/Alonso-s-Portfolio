@@ -8,6 +8,9 @@ img{
 }
 body{
     background-color: rgba(24, 16, 16, 0.616);
+    
+
+</style>
 }
 #bod{
     background-color:  rgba(24, 16, 16, 0.616);
@@ -33,3 +36,7 @@ body{
 /*#yes{
     display: inline-flex;
 }*/
+.card-img-top{
+    height: 50% !important;
+    width: 100% !important;
+}
