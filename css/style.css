@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
 #head{
-    font-family: cursive
-    ;
+    font-family: Orbitron;
     color: #ffffffde;
 }
+
 img{
     border-radius: 2rem;
 }
@@ -10,7 +12,7 @@ body{
     background-color: rgba(24, 16, 16, 0.616);
     
 
-</style>
+
 }
 #bod{
     background-color:  rgba(24, 16, 16, 0.616);
@@ -39,4 +41,8 @@ body{
 .card-img-top{
     height: 50% !important;
     width: 100% !important;
+}
+.card1{
+    margin-right: 2rem;
+    
 }
